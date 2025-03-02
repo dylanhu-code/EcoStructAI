@@ -1,0 +1,3 @@
+# requirements.txt for the AI/ML model component of EcoStructAI.
+# This file includes the necessary Python libraries for building and running the ML models.
+# Please install the dependencies by running 'pip install -r requirements.txt'
